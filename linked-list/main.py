@@ -1,7 +1,7 @@
 class Node:
     def __init__(self, value):
         self.value = value
-        self.node = None
+        self.next = None
 
 
 # This Python class defines a linked list data structure with methods to initialize the list and print its elements.
