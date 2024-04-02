@@ -40,11 +40,6 @@ class LinkedList:
         self.tail.next = None
 
 
-
-
-
-
-
 my_linked_list = LinkedList(4)
 
 my_linked_list.append(6)
